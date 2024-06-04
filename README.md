@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png" alt="MasterHead">
+    <img src="https://media.licdn.com/dms/image/D4D12AQHZ4n9TunXXqQ/article-cover_image-shrink_720_1280/0/1673598310961?e=2147483647&v=beta&t=Zvay8rRuGCOPO6Fuf7S0o3CMLLVrEDI-UiKf0HS2Waw" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Gunaseelan N</h1>

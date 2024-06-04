@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://media.licdn.com/dms/image/D4D12AQHZ4n9TunXXqQ/article-cover_image-shrink_720_1280/0/1673598310961?e=2147483647&v=beta&t=Zvay8rRuGCOPO6Fuf7S0o3CMLLVrEDI-UiKf0HS2Waw" alt="MasterHead">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Gunaseelan N</h1>
 <h3 align="center">A passionate frontend developer and UI designer</h3>
